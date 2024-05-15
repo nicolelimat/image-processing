@@ -28,6 +28,9 @@
 *.so.*
 *.dylib
 
+# macOS-specific
+.DS_Store
+
 # Executables
 *.exe
 *.out
@@ -51,8 +54,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# IDE settings
-.vscode
+# Visual Studio Code settings
+.vscode/
 
 # Drafts
 docs/
