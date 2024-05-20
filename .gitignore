@@ -56,6 +56,3 @@ dkms.conf
 
 # Visual Studio Code settings
 .vscode/
-
-# Drafts
-docs/
