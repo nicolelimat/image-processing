@@ -1,0 +1,24 @@
+TODO: 
+    Desenvolver um programa de processamento de imagens para contar feijoes
+    Etapa 1:
+        Carregar a imagem
+        ✔ 1. Carregar a imagem em formato PGM @done(24-04-20 09:26)
+    Etapa 2:
+        Algoritmos para tratamento de imagem
+        ✔ 1. Limiarização @done(24-05-14 09:28)
+            ✔ 1.1 Transformação de imagem GRAY (pgm) para imagem BW (pbm) @done(24-04-20 09:32)
+        ✔ 2. Rotulação de componentes conexos @done(24-05-14 16:28)
+                       R  / P
+            ✔ beans5 = 10 / 10 @done(24-05-15 09:56) (L = 95)
+            ✔ beans6 = 20 / 20 @done(24-05-15 09:56) (L = 95)
+            ✔ beans7 = 30 / 30 @done(24-05-15 10:05) (L = 95)
+        ✔ 3. Imagem distância @done(24-05-20 16:29)
+            Feijões muito próximos que precisam ser separados
+                       R  / P
+            ✔ beans1 = 41 / 41 @done(24-05-20 16:28)
+            ☐ beans2 = 68 / 74 
+            ☐ beans3 = 96 / 94
+            ☐ beans4 = ?? / 112
+    Etapa 3:
+        Apresentar os resultados
+        ✔ 1. Contar os feijões @done(24-05-20 16:28)
